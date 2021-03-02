@@ -20,7 +20,7 @@ org.gradle.java.home=C:\\Program Files\\Java\\jdk-15.0.1
 then save and run npx 'react-native run-android'
 
 # Run url to webview code
-now you need to remove all the code from your project folder/app.js then add this follwing codes given the link:
+now you need to remove all the code from your project folder/app.js then add this follwing codes given the link:<br>
 https://github.com/faheem-cmd/react-native-webview-app.js
 
 then save and run react-native run-android
