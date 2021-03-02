@@ -1,21 +1,21 @@
 # React-Native-web-to-apk
 convert any website or url  to mobile app using react-native
 
-# Setting up the native development environment documentation
+# Setting up the native development environment documentation<br>
 https://reactnative.dev/docs/environment-setup
 
 # Webview Libraries
-react-native webview
+react-native webview<br>
 https://github.com/react-native-webview/react-native-webview/blob/master/docs/Getting-Started.md
 
 # Documentation
 after creating native cli app youl will go to your project directory
 root folder then android/create new file named local.properties then add this lines
 
- //this is your android sdk path
-sdk.dir=C:\\Users\\username\\AppData\\Local\\Android\\Sdk 
+ //this is your android sdk path<br>
+sdk.dir=C:\\Users\\username\\AppData\\Local\\Android\\Sdk <br>
 
-//java jdk path
+//java jdk path<br>
 org.gradle.java.home=C:\\Program Files\\Java\\jdk-15.0.1   
 then save and run npx 'react-native run-android'
 
