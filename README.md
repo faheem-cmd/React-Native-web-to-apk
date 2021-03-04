@@ -29,6 +29,11 @@ https://github.com/faheem-cmd/react-native-webview-app.js
 
 then save and run react-native run-android
 
+# Run pages from locally
+creating folder assets:<br>
+create folder assets on >Project\android\app\src\main\assets<br>
+put this code to your init url:<br>
+file:///android_asset/sample.html
 
 
 
